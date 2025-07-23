@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Data Protection"
+    url: /datap/
+  - title: "Cloud Security"
+    url: /cloudsec/
+  - title: "Identity and Access"
+    url: /azureiam/
+  - title: "Automations"
+    url: /auto/
