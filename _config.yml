@@ -17,7 +17,6 @@ title: Magutu Gregory Isaboke
 email: gregorymagutu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Data Protection Specialist | Cloud Security Specialist | Physical Security and Criminology Expert
-linkedIn_username: https://www.linkedin.com/in/magisaboke
 github_username: Isa-boke
 minimal_mistakes_skin: neon
 search: true
@@ -56,34 +55,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Gregory Isaboke"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Guardian with an eye for threats intelligence. Blending criminology, data protection, and AI magic to keep systems smarter and safer."
   links:
-    - label: "Website"
+    - label: "linkedin"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://https://www.linkedin.com/in/magisaboke"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://Isa-boke.github.io"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://Isa-boke.github.io"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/magisaboke"
 
 defaults:
   # _posts
