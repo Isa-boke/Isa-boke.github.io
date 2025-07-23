@@ -5,5 +5,3 @@ main:
     url: /cloudsec/
   - title: "Identity and Access"
     url: /azureiam/
-  - title: "Automations"
-    url: /auto/
