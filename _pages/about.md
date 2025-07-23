@@ -1,3 +1,2 @@
 ---
-permalink: /about/
-title: "About"
+title: "datap"
